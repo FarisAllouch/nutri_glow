@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1087818568064",
+    "project_id": "nutriglow-3513c",
+    "storage_bucket": "nutriglow-3513c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087818568064:android:bedfd57f0558b1301db165",
+        "android_client_info": {
+          "package_name": "com.example.nutri_glow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087818568064-9ereu8fc0980c4su39hmi2q7n3fi051f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBj9VFIIB126KeKbbtFs456ka-78e3Q7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087818568064-9ereu8fc0980c4su39hmi2q7n3fi051f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087818568064-71lvf1vl3hikeosfcbiuu3p2tor20oe0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutriGlow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
